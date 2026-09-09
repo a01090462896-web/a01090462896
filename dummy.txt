@@ -6,4 +6,18 @@ clear스파르타 코딩 클럽 git 강의 최고!
 라인 5
 라인 6
 
+HEAD
 cherry-pick 브랜치 테스트 입력 입니다.
+
+dummy text1
+
+dummy text2
+
+dummy text3
+
+reset을 위한 dummy text1
+
+reset을 위한 dummy text2
+
+reset을 위한 dummy text3
+412a783 (revert test)
